@@ -11,6 +11,7 @@ profile:
   # more_info: >
   #   <p>Busan, Korea</p>
   #   <p>gijaeahn77@gmail.com</p>
+  # Hellos
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
