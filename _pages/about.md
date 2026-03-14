@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotics Engineer focused on mobile manipulation and autonomous systems.
+subtitle: Robotics Engineer
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: me.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Busan, Korea</p>
-    <p>gijaeahn77@gmail.com</p>
+  # more_info: >
+  #   <p>Busan, Korea</p>
+  #   <p>gijaeahn77@gmail.com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,30 +25,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am Gijae Ahn, a robotics engineer working on mobile manipulation, compliant arm design, and autonomous robot systems.
+I am Gijae Ahn, a robotics engineer who has worked on dexterous and mobile manipulation, and compliant mechanical design.
 My work spans robot hardware design, control, motion planning, and integrated software pipelines for real-world tasks and competitions.
 
-I am currently pursuing an M.S. in Electrical & Electronic Engineering at Pusan National University (PNU), where my thesis focuses on lightweight compliant manipulation and dynamic non-prehensile object transfer.
+I completed my M.S. in Electrical and Electronic Engineering at Pusan National University (PNU) under the supervision of Prof. Seung Joon Yi. My thesis focused on lightweight compliant manipulation and dynamic non-prehensile object transfer.
 
-I have contributed to multiple first-place robotics competition results, including RoboCup@Home and national industrial/space robotics challenges in Korea.
-My current experience includes building autonomous mobile manipulation pipelines for factory-line collaboration.
+My research interests lie in robotic systems that operate robustly in the real world. To pursue these interests, I have participated in multiple robotics competitions as part of my lab team, most notably RoboCup@Home, as well as industrial and space robotics challenges in Korea.
 
-## Internship
-
-<div class="card mt-3">
-  <div class="row no-gutters">
-    <div class="col-md-3">
-      <img src="{{ '/assets/img/11.jpg' | relative_url }}" class="img-fluid rounded-left" alt="Internship placeholder image">
-    </div>
-    <div class="col-md-9">
-      <div class="card-body">
-        <h5 class="card-title">Tomorro Robotics Korea — Research Intern (Sep 2025 – Present)</h5>
-        <p class="card-text mb-1">Lead engineer for an autonomous mobile manipulator in a dual-robot factory workflow (CES 2026 demo).</p>
-        <p class="card-text mb-1">Built an end-to-end pipeline for detection, grasping, transport, and conveyor synchronization with a secondary VLA-based packing robot.</p>
-      </div>
-    </div>
-  </div>
-</div>
+More recently, I have developed a strong interest in collaborative manipulation that leverages human intent estimation.
 
 ## Competitions
 
@@ -152,6 +136,7 @@ My current experience includes building autonomous mobile manipulation pipelines
   </div>
 </div>
 
+
 ## Publications
 
 <div class="card mt-3">
@@ -209,6 +194,23 @@ My current experience includes building autonomous mobile manipulation pipelines
         <h5 class="card-title">Development of Dual-Arm Human Companion Robots That Can Dance</h5>
         <p class="card-text mb-1"><strong>Sensors, 24(20), 6704</strong></p>
         <p class="card-text mb-1">J. Kim, T. Kang, D. Song, G. Ahn, S.-J. Yi</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Internship
+
+<div class="card mt-3">
+  <div class="row no-gutters">
+    <div class="col-md-3">
+      <img src="{{ '/assets/img/11.jpg' | relative_url }}" class="img-fluid rounded-left" alt="Internship placeholder image">
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h5 class="card-title">Tomorro Robotics Korea — Research Intern (Sep 2025 – Present)</h5>
+        <p class="card-text mb-1">Lead engineer for an autonomous mobile manipulator in a dual-robot factory workflow (CES 2026 demo).</p>
+        <p class="card-text mb-1">Built an end-to-end pipeline for detection, grasping, transport, and conveyor synchronization with a secondary VLA-based packing robot.</p>
       </div>
     </div>
   </div>
